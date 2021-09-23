@@ -1,11 +1,9 @@
-# JunctureTest
-
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
-       author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://digitalcollections.tcd.ie/uv/uv.html#?manifest=https://digitalcollections.tcd.ie/concern/works/9k41zf08r/manifest&c=0&m=0&s=0&cv=0&config=https://digitalcollections.tcd.ie/uv/uv-config.json&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),sv-SE:Svenska,xx-XX:English (GB) (xx-XX)&xywh=-1553,-344,10837,6864&r=0" 
+       title="Juncture Test Essay"
+       author="Margaret Smith"
+       banner="https://media.nga.gov/iiif/b22a08c9-724c-4a7e-8fc5-10cbfaeb4cd6/full/!588,600/0/default.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
