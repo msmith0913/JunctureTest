@@ -5,7 +5,7 @@
 <param ve-config 
        title="Girl with a Pearl Earring"
        author="JSTOR Labs team"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?url=https://digitalcollections.tcd.ie/uv/uv.html#?manifest=https://digitalcollections.tcd.ie/concern/works/9k41zf08r/manifest&c=0&m=0&s=0&cv=0&config=https://digitalcollections.tcd.ie/uv/uv-config.json&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),sv-SE:Svenska,xx-XX:English (GB) (xx-XX)&xywh=-1553,-344,10837,6864&r=0" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
