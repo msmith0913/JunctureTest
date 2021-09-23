@@ -46,7 +46,7 @@ literary treatments. In 2006, the Dutch public selected it as the most beautiful
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  
 Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       manifest="https://digitalcollections.tcd.ie/uv/uv.html#?manifest=https://digitalcollections.tcd.ie/concern/works/9k41zf08r/manifest&c=0&m=0&s=0&cv=0&config=https://digitalcollections.tcd.ie/uv/uv-config.json&locales=en-GB:English (GB),cy-GB:Cymraeg,fr-FR:Français (FR),sv-SE:Svenska,xx-XX:English (GB) (xx-XX)&xywh=-1553,-344,10837,6864&r=0">
 <param ve-map center="Q36600" zoom="11">
 
 # References
